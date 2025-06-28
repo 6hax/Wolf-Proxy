@@ -43,8 +43,8 @@ ascii_art = f"""
         ▒▒░░░░▓▓      ▒▒  ░░░░▒▒░░░░░░░░▒▒                    
         ▒▒░░░░▒▒      ▒▒  ░░░░▒▒  ░░░░░░▒▒                    
         ▒▒░░    ▓▓  ▒▒      ░░▒▒      ▒▒     - version: 1.1                
-          ▒▒      ▒▒          ▒▒  ▒▒  ▒▒     - github: https://github.com/emptyhax/proxy-hax                
-        ▒▒  ▒▒  ▒▒  ▒▒  ▒▒  ▒▒▒▒▒▒▒▒▒▒       - made by hax and dan
+          ▒▒      ▒▒          ▒▒  ▒▒  ▒▒     - made by hax and dan    
+        ▒▒  ▒▒  ▒▒  ▒▒  ▒▒  ▒▒▒▒▒▒▒▒▒▒       
         ▒▒▓▓▒▒▒▒    ▓▓▒▒▒▒▒▒        
 
 """
